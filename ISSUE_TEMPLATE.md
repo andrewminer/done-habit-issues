@@ -1,4 +1,4 @@
-Account: <your Done Habit email address>
+Account: *your Done Habit email address*
 
 ### STEPS
 
